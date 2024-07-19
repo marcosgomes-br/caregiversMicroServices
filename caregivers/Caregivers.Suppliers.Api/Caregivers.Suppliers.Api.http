@@ -1,0 +1,6 @@
+@Caregivers.Suppliers.Api_HostAddress = http://localhost:5032
+
+GET {{Caregivers.Suppliers.Api_HostAddress}}/health
+Accept: application/json
+
+###
